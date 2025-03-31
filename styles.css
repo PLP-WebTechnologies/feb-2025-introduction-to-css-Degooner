@@ -1,0 +1,55 @@
+/* Style the body */
+body {
+    font-family: Arial, sans-serif;
+    
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Style the header */
+header {
+    text-align: justify;
+    padding: 20px;
+    background-color: #e3e3e3;
+    border-bottom: 2px solid #ccc;
+}
+
+/* Style images */
+img {
+    max-width: 100%;
+    height: auto;
+    border: 3px solid #333;
+    margin: 10px 0;
+}
+
+/* Style the form */
+form {
+    margin: 20px auto;
+    padding: 20px;
+    width: 50%;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Style form inputs */
+input, select {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Style the submit button */
+input[type="submit"] {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
